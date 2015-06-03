@@ -1,0 +1,4 @@
+{"user_id":34,"lesson_id":1,"task_id":6,"programming_language":"C","file_name":"test.c","file_content":"int main(){return 0;}","reponse_url":"http://ejudge.100ege.ru/cgi-bin/a.out"}
+
+
+session=eyJ1c2VyX2lkIjozNCwibGVzc29uX2lkIjoxLCJ0YXNrX2lkIjo2LCJwcm9ncmFtbWluZ19sYW5ndWFnZSI6IkMiLCJmaWxlX25hbWUiOiJ0ZXN0LmMiLCJmaWxlX2NvbnRlbnQiOiJpbnQgbWFpbigpe3JldHVybiAwO30iLCJyZXBvbnNlX3VybCI6Imh0dHA6Ly9lanVkZ2UuMTAwZWdlLnJ1L2NnaS1iaW4vYS5vdXQifQ==--ea856db30803ea52503a0f7c07f7c2d11b6bad56
